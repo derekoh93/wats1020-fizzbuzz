@@ -1,5 +1,5 @@
 // Place your FizzBuzz code here. 
-var rangeLimit = 100;
+var rangeLimit = 20;
 
 // Count through numbers 1-20 to see which are divisible by 3, 5, or both.
 for (i=1; i<=rangeLimit; i++) {
